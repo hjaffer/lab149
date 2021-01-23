@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d49f46ef-ba40-4b49-ace6-fd60d1427f10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_6P_API_28]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fIl8A0cG1abOzuVOzjIgsU7745" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Nexus_6P_API_28 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.doordashapplication" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="emulator-5554" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-05T21:07:08.333Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/example/doordashapplication/framework/presentation/main" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.30920464" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.doordashapplication.framework.presentation.merchant" />
+      <recent name="com.example.walmartapplication.framework.presentation.adapter" />
+      <recent name="com.example.walmartapplication.framework.presentation" />
+      <recent name="com.example.walmartapplication.framework" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/doordashapplication/framework/presentation/main" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/walmartapplication/framework/presentation/adapter" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/walmartapplication/business/domain" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.doordashapplication.business.domain.models" />
+      <recent name="com.example.doordashapplication.framework.network.mappers" />
+      <recent name="com.example.doordashapplication.framework.presentation.main" />
+      <recent name="com.example.walmartapplication.framework.presentation" />
+      <recent name="com.example.walmartapplication.di" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/doordashapplication/framework/presentation/merchant" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/doordashapplication/framework/presentation/main" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/example/walmartapplication/framework/network/model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="ExampleUnitTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoorDashApplication.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.doordashapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.doordashapplication" />
+      <option name="MAIN_CLASS_NAME" value="com.example.doordashapplication.ExampleUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperUnitTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoorDashApplication.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.doordashapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.doordashapplication" />
+      <option name="MAIN_CLASS_NAME" value="com.example.doordashapplication.MapperUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="DoorDashApplication.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperUnitTest.test_merchant_details_mapToEntity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoorDashApplication.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.doordashapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.doordashapplication" />
+      <option name="MAIN_CLASS_NAME" value="com.example.doordashapplication.MapperUnitTest" />
+      <option name="METHOD_NAME" value="test_merchant_details_mapToEntity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperUnitTest.test_merchant_mapToEntity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoorDashApplication.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.doordashapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.doordashapplication" />
+      <option name="MAIN_CLASS_NAME" value="com.example.doordashapplication.MapperUnitTest" />
+      <option name="METHOD_NAME" value="test_merchant_mapToEntity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.MapperUnitTest" />
+        <item itemvalue="Android JUnit.ExampleUnitTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d49f46ef-ba40-4b49-ace6-fd60d1427f10" name="Default Changelist" comment="" />
+      <created>1595913325835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595913325835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="411" y="239" key="#PSD" timestamp="1598333299720">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="411" y="239" key="#PSD/0.23.1680.971@0.23.1680.971" timestamp="1598333299720" />
+    <state x="589" y="288" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1596001654683">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="589" y="288" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.971@0.23.1680.971" timestamp="1596001654683" />
+    <state x="620" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1604697497128">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="620" y="249" key="#com.intellij.ide.util.MemberChooser/0.23.1680.971@0.23.1680.971" timestamp="1604697497128" />
+    <state x="620" y="249" key="#com.intellij.ide.util.MemberChooser/0.23.1680.972@0.23.1680.972" timestamp="1604550422552" />
+    <state x="333" y="459" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595966740967">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="333" y="459" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1680.971@0.23.1680.971" timestamp="1595966740967" />
+    <state x="0" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604433583844">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="0" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.971@0.23.1680.971" timestamp="1604433583844" />
+    <state x="645" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598329600241">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="645" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.971@0.23.1680.971" timestamp="1598329600241" />
+    <state x="898" y="196" width="685" height="681" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1604451307559">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="898" y="196" width="685" height="681" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1680.971@0.23.1680.971" timestamp="1604451307559" />
+    <state x="63" y="294" width="734" height="699" key="#xdebugger.evaluate" timestamp="1604469802346">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="604" y="237" key="#xdebugger.evaluate/0.23.1680.971@0.23.1680.971" timestamp="1604444953308" />
+    <state x="63" y="294" width="734" height="699" key="#xdebugger.evaluate/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604469802346" />
+    <state x="562" y="438" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604433021325">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="562" y="438" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.971@0.23.1680.971" timestamp="1604433021325" />
+    <state x="698" y="299" key="AndroidProcessChooserDialog" timestamp="1604553501411">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="698" y="299" key="AndroidProcessChooserDialog/0.23.1680.971@0.23.1680.971" timestamp="1604444372487" />
+    <state x="698" y="299" key="AndroidProcessChooserDialog/0.23.1680.972@0.23.1680.972" timestamp="1604553501411" />
+    <state x="698" y="299" key="AndroidProcessChooserDialog/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604469709979" />
+    <state width="473" height="466" key="DebuggerActiveHint" timestamp="1604549987216">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="473" height="466" key="DebuggerActiveHint/0.23.1680.972@0.23.1680.972" timestamp="1604549987216" />
+    <state width="1487" height="245" key="GridCell.Tab.0.bottom" timestamp="1604703710138">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1487" height="245" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1604703710138" />
+    <state width="1487" height="311" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1604554182503" />
+    <state width="1487" height="245" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1604596818281" />
+    <state width="1487" height="254" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604475774671" />
+    <state width="1487" height="245" key="GridCell.Tab.0.center" timestamp="1604703710138">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1487" height="245" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1604703710138" />
+    <state width="1487" height="311" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1604554182503" />
+    <state width="1487" height="245" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1604596818280" />
+    <state width="1487" height="254" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604475774668" />
+    <state width="1487" height="245" key="GridCell.Tab.0.left" timestamp="1604703710137">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1487" height="245" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1604703710137" />
+    <state width="1487" height="311" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1604554182503" />
+    <state width="1487" height="245" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1604596818280" />
+    <state width="1487" height="254" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604475774666" />
+    <state width="1487" height="245" key="GridCell.Tab.0.right" timestamp="1604703710138">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1487" height="245" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1604703710138" />
+    <state width="1487" height="311" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1604554182503" />
+    <state width="1487" height="245" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1604596818280" />
+    <state width="1487" height="254" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604475774669" />
+    <state width="1487" height="371" key="GridCell.Tab.1.bottom" timestamp="1604699504830">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1487" height="371" key="GridCell.Tab.1.bottom/0.23.1680.971@0.23.1680.971" timestamp="1604699504830" />
+    <state width="1487" height="311" key="GridCell.Tab.1.bottom/0.23.1680.972@0.23.1680.972" timestamp="1604554192596" />
+    <state width="1487" height="311" key="GridCell.Tab.1.bottom/0.23.1680.973@0.23.1680.973" timestamp="1604596430471" />
+    <state width="1487" height="254" key="GridCell.Tab.1.bottom/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604475774673" />
+    <state width="1487" height="371" key="GridCell.Tab.1.center" timestamp="1604699504830">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1487" height="371" key="GridCell.Tab.1.center/0.23.1680.971@0.23.1680.971" timestamp="1604699504830" />
+    <state width="1487" height="311" key="GridCell.Tab.1.center/0.23.1680.972@0.23.1680.972" timestamp="1604554192596" />
+    <state width="1487" height="311" key="GridCell.Tab.1.center/0.23.1680.973@0.23.1680.973" timestamp="1604596430470" />
+    <state width="1487" height="254" key="GridCell.Tab.1.center/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604475774672" />
+    <state width="1487" height="371" key="GridCell.Tab.1.left" timestamp="1604699504829">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1487" height="371" key="GridCell.Tab.1.left/0.23.1680.971@0.23.1680.971" timestamp="1604699504829" />
+    <state width="1487" height="311" key="GridCell.Tab.1.left/0.23.1680.972@0.23.1680.972" timestamp="1604554192595" />
+    <state width="1487" height="311" key="GridCell.Tab.1.left/0.23.1680.973@0.23.1680.973" timestamp="1604596430470" />
+    <state width="1487" height="254" key="GridCell.Tab.1.left/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604475774672" />
+    <state width="1487" height="371" key="GridCell.Tab.1.right" timestamp="1604699504830">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="1487" height="371" key="GridCell.Tab.1.right/0.23.1680.971@0.23.1680.971" timestamp="1604699504830" />
+    <state width="1487" height="311" key="GridCell.Tab.1.right/0.23.1680.972@0.23.1680.972" timestamp="1604554192596" />
+    <state width="1487" height="311" key="GridCell.Tab.1.right/0.23.1680.973@0.23.1680.973" timestamp="1604596430471" />
+    <state width="1487" height="254" key="GridCell.Tab.1.right/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604475774673" />
+    <state x="387" y="139" key="SettingsEditor" timestamp="1598333231189">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="387" y="139" key="SettingsEditor/0.23.1680.971@0.23.1680.971" timestamp="1598333231189" />
+    <state x="127" y="159" width="1449" height="735" key="dock-window-1" timestamp="1598329115584">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="127" y="159" width="1449" height="735" key="dock-window-1/0.23.1680.971@0.23.1680.971" timestamp="1598329115584" />
+    <state x="477" y="265" width="1118" height="491" key="find.popup" timestamp="1604551390510">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="477" y="265" width="1103" height="490" key="find.popup/0.23.1680.971@0.23.1680.971" timestamp="1604528450295" />
+    <state x="477" y="265" width="1118" height="491" key="find.popup/0.23.1680.972@0.23.1680.972" timestamp="1604551390510" />
+    <state x="477" y="265" width="1103" height="490" key="find.popup/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604471451697" />
+    <state width="360" height="217" key="javadoc.popup.new" timestamp="1604701482698">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state width="360" height="217" key="javadoc.popup.new/0.23.1680.971@0.23.1680.971" timestamp="1604701482698" />
+    <state width="360" height="218" key="javadoc.popup.new/0.23.1680.972@0.23.1680.972" timestamp="1604554096053" />
+    <state width="360" height="219" key="javadoc.popup.new/0.23.1680.973@0.23.1680.973" timestamp="1604596618105" />
+    <state width="360" height="217" key="javadoc.popup.new/1680.23.1920.1057/0.23.1680.971@0.23.1680.971" timestamp="1604478817780" />
+    <state x="489" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1604443251572">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="489" y="245" width="670" height="676" key="search.everywhere.popup/0.23.1680.971@0.23.1680.971" timestamp="1604443251572" />
+  </component>
+</project>

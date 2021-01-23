@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TapToSnap</string>
+    <string name="app_welcome">Welcome</string>
+    <string name="app_welcome_app_name">TAP TO SNAP</string>
+    <string name="app_welcome_go_button">LET\'S GO!</string>
+    <string name="snap_list_title">Tap to Snap</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="snap_list_timer_expired_title">Timer Expired</string>
+    <string name="snap_list_timer_expired_message">Would you like to play again?</string>
+    <string name="snap_list_timer_expired_no_play_again">Thanks for playing</string>
+    <string name="snap_match_success">Snap successfully matched!</string>
+    <string name="snap_match_failure">Snap failed to match!</string>
+    <string name="snap_permission_failure">In order to use TapToSnap, you must enable the Camera Permission</string>
+</resources>

@@ -1,0 +1,100 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+apply plugin: 'dagger.hilt.android.plugin'
+
+android {
+    dataBinding {
+        enabled = true
+    }
+
+    compileSdkVersion 30
+
+    defaultConfig {
+        applicationId "com.example.lab149application"
+        minSdkVersion 24
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
+}
+
+kapt {
+    correctErrorTypes true
+}
+
+def hilt_version = "2.28-alpha"
+def retrofit_version = "2.9.0"
+def coroutines_android_version = '1.3.0'
+def material_version = '1.3.0-rc01'
+def fragment_ktx = "1.2.5"
+def hilt_viewmodels = "1.0.0-alpha02"
+def kotlin_ktx = "1.3.2"
+def glide_version = '4.11.0'
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.4.21"
+    implementation 'androidx.core:core-ktx:1.3.2'
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.8"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.2"
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.3.2'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.3.2'
+    testImplementation 'junit:junit:4.13.1'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    //support for APK less than 21
+    implementation 'androidx.multidex:multidex:2.0.1'
+
+    // Android UI and appcompat
+    implementation "com.google.android.material:material:$material_version"
+
+    implementation "androidx.core:core-ktx:$kotlin_ktx"
+
+    implementation "androidx.fragment:fragment-ktx:$fragment_ktx"
+
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0"
+
+    // Coroutines
+    "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines_android_version"
+    "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutines_android_version"
+
+    // Hilt
+    implementation "com.google.dagger:hilt-android:$hilt_version"
+    kapt "com.google.dagger:hilt-android-compiler:$hilt_version"
+
+    implementation "androidx.hilt:hilt-lifecycle-viewmodel:$hilt_viewmodels"
+    kapt "androidx.hilt:hilt-compiler:$hilt_viewmodels"
+
+    // Retrofit
+    implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
+    implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.9.0'
+
+    // Glide
+    implementation "com.github.bumptech.glide:glide:$glide_version"
+}
+
